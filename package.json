@@ -193,7 +193,7 @@
     "vite-plugin-istanbul": "^5.0.0",
     "vite-plugin-pwa": "^0.12.8",
     "vite-plugin-tdoc": "^2.0.1",
-    "vitest": "^0.24.1",
+    "vitest": "^1.5.3",
     "workbox-precaching": "^7.0.0"
   },
   "dependencies": {
